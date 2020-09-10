@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PMCL 2019</string>
+    <string-array name="array_city">
+        <item>Ahmedabad</item>
+    </string-array>
+
+
+    <string-array name="array_country">
+        <item>India</item>
+    </string-array>
+
+    <string-array name="array_states">
+        <item>AN - Anadman Nicobar Islands </item>
+        <item>AP - Andhra Pradesh </item>
+        <item>AR - Arunachal Pradesh </item>
+        <item>AS - Assam </item>
+        <item>BR - Bihar </item>
+        <item>CT - Chhatitisgarh</item>
+        <item>CH - Chandigarh</item>
+        <item>DD - Daman And Diu </item>
+        <item>DL - Delhi </item>
+        <item>DN - Dadra And Nagar Haveli </item>
+        <item>GA - Goa</item>
+        <item>GJ - Gujarat </item>
+        <item>HP - Himachal Pradesh </item>
+        <item>HR - Haryana </item>
+        <item>JH - Jharkhannd </item>
+        <item>JK - Jammu And Kashmir </item>
+        <item>KA - Karnataka </item>
+        <item>KL - Kerala </item>
+        <item>LD - Lakshdweep </item>
+        <item>MH - Maharashtra </item>
+        <item>ML - Meghalaya </item>
+        <item>MN - Manipur </item>
+        <item>MP - Madhya Pradesh </item>
+        <item>MZ - Mizoram </item>
+        <item>NL - Nagaland </item>
+        <item>PB - Punjab </item>
+        <item>PY - Paunducherry</item>
+        <item>RJ - Rajasthan </item>
+        <item>SK - Sikkim </item>
+        <item>TG - Telangana </item>
+        <item>TN - Tamilnadu </item>
+        <item>TR - Tripura </item>
+        <item>UP - Uttar Pradesh </item>
+        <item>UT - Uttarakhand </item>
+        <item>WB - West Bengal </item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>
